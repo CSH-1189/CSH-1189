@@ -5,5 +5,5 @@
 - 정보통신공학전공
 ## Links
 <E-mail>
-- Google: **choish1189@yu.ac.kr**
-- Naver: **windy1189@naver.com** 
+- Google: choish1189@yu.ac.kr
+- Naver: windy1189@naver.com 
